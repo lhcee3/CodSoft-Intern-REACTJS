@@ -7,14 +7,14 @@ Change the info on 'firebase.config.jsx' inside 'src/config' and add your own cr
 
 In the main folder, run
 ```bash
-  yarn dev
+  cd blogger
 ```
 If you ran into any issue, run
 ```bash
-  yarn
+  npm install 
 ```
 And then
 ```bash
-  yarn dev
+  npm run dev
 ```
 
