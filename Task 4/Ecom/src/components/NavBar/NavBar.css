@@ -1,0 +1,17 @@
+.products-list{
+    display: none;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.products-list-hover:hover .products-list{
+    display: flex;
+}
+
+.products-list:hover{
+    display: flex;
+}
+
+.active, li:has(.active){
+    color: #9a6dcc !important;
+}

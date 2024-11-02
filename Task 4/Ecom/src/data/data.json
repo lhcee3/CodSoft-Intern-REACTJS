@@ -1,0 +1,363 @@
+[
+    {
+        "id": 1,
+        "name": "Earth Rated Dog Poop Bags",
+        "description": "Guaranteed Leak Proof and Extra Thick Waste Bag Refill Rolls For Dogs, Lavender Scented, 270 Count.",
+        "image": "https://m.media-amazon.com/images/I/71LtXuEA1sL._AC_SX679_.jpg",
+        "price": 13.99,
+        "stock": 33,
+        "category": "dogs"
+    },
+    {
+        "id": 2,
+        "name": "Purina Pro Plan Dog Food",
+        "description": "High Protein With Probiotics for Dogs, Shredded Blend Chicken & Rice Formula - 47 lb. Bag.",
+        "image": "https://m.media-amazon.com/images/I/81RlkmqPVVS._AC_SX679_.jpg",
+        "price": 63.98,
+        "stock": 8,
+        "category": "dogs"
+    },
+    {
+        "id": 3,
+        "name": "ChuckIt! Ultra Ball",
+        "description": "This ball toy for dogs entices play withhigh impact bouncing!",
+        "image": "https://m.media-amazon.com/images/I/81an+TQ0ouL._AC_SX679_.jpg",
+        "price": 9.95,
+        "stock": 14,
+        "category": "dogs"
+    },
+    {
+        "id": 4,
+        "name": "Water Fountain",
+        "description": "Water Dispenser with Smart Pump for Dogs & Multiple Pets (Blue, Plastic).",
+        "image": "https://m.media-amazon.com/images/I/61hbJIgyVOL._AC_SX679_.jpg",
+        "price": 31.24,
+        "stock": 7,
+        "category": "dogs"
+    },
+    {
+        "id": 5,
+        "name": "Dog Bed",
+        "description": "Waterproof Dog Bed Medium, Foam Sofa with Removable Washable Cover, Waterproof Lining and Nonskid Bottom Couch, Pet Bed.",
+        "image": "https://m.media-amazon.com/images/I/71TgLdByn5L._AC_SX679_.jpg",
+        "price": 47.99,
+        "stock": 15,
+        "category": "dogs"
+    },
+    {
+        "id": 6,
+        "name": "Pet Carrier",
+        "description": "Adjustable Pet Backpack Carrier Travel Bag, Legs Out Easy-Fit Hands-Free for Traveling Hiking Camping Riding Driving.",
+        "image": "https://m.media-amazon.com/images/I/81Teif39AUL._AC_SX679_.jpg",
+        "price": 20.99,
+        "stock": 42,
+        "category": "dogs"
+    },
+    {
+        "id": 7,
+        "name": "Car Seat Protector",
+        "description": "Washable & Waterproof Back Seat Dog Cover for Car, Truck, & SUV | Nonslip, Tear Resistant Pet Seat Cover | Regular Black.",
+        "image": "https://m.media-amazon.com/images/I/81AcbV4IriL._AC_SX466_.jpg",
+        "price": 56.99,
+        "stock": 5,
+        "category": "dogs"
+    },
+    {
+        "id": 8,
+        "name": "Dog Bandana",
+        "description": "Cotton Bandanas Handkerchiefs Scarfs Triangle Bibs Accessories for Small Medium Large Dogs Puppies Pets, Black and White, Red, Green, Blue and Navy Blue.",
+        "image": "https://m.media-amazon.com/images/I/81-tTiQb+-L._AC_SX679_.jpg",
+        "price": 15.99,
+        "stock": 42,
+        "category": "dogs"
+    },
+    {
+        "id": 9,
+        "name": "Mini Bones With Real Peanut Butter",
+        "description": "Easy-to-digest dog chews made with wholesome ingredients, made with a peanut butter outside wrapped around real chicken inside.",
+        "image": "https://m.media-amazon.com/images/I/81SJKQckBxL._AC_SX679_.jpg",
+        "price": 25.95,
+        "stock": 33,
+        "category": "dogs"
+    },
+    {
+        "id": 10,
+        "name": "Dog Harness with Leash Set",
+        "description": "No Pull Adjustable Reflective Step-in Puppy Harness with Padded Vest for Extra-Small/Small Medium Large Dogs.",
+        "image": "https://m.media-amazon.com/images/I/71dbFVAvn-L._AC_SX679_.jpg",
+        "price": 10.99,
+        "stock": 14,
+        "category": "dogs"
+    },
+    {
+        "id": 11,
+        "name": "Genius Cat Litter",
+        "description": "5-Color Health Indicator, Odor Eliminating, Non-Stick, Lightweight Crystals, Non-Clumping, High Absorption, Unscented.",
+        "image": "https://m.media-amazon.com/images/I/71nmi0XF91L._AC_SX679_.jpg",
+        "price": 23.74,
+        "stock": 12,
+        "category": "cats"
+    },
+    {
+        "id": 12,
+        "name": "Cat Bed Window",
+        "description": "Cat Window Hammock Window Perch , Safety Cat Shelves Space Saving Window Mounted Cat Seat for Large Cats.",
+        "image": "https://m.media-amazon.com/images/I/81sq7e-WSNL._AC_SX679_.jpg",
+        "price": 39.99,
+        "stock": 8,
+        "category": "cats"
+    },
+    {
+        "id": 13,
+        "name": "Tower with Hammock and Scratching Posts",
+        "description": "Cat tower designed to engage indoor cats in climbing and scratching and cozy naptime.",
+        "image": "https://m.media-amazon.com/images/I/91uOGK5bQ5L._AC_SX679_.jpg",
+        "price": 26.39,
+        "stock": 2,
+        "category": "cats"
+    },
+    {
+        "id": 14,
+        "name": "Cat Nail Clipper",
+        "description": "Mr. Pen cat nail clipper designs to optimize comfort and control while grooming your furry friend.",
+        "image": "https://m.media-amazon.com/images/I/71Mg3J8aSBS._AC_SX679_.jpg",
+        "price": 6.85,
+        "stock": 25,
+        "category": "cats"
+    },
+    {
+        "id": 15,
+        "name": "Grooming Gloves Cat",
+        "description": "Brushes Gloves for Gentle Shedding - Efficient Pets Hair Remover Mittens - Dog Washing Gloves for Long and Short Hair Dogs & Cats & Horses - 1 Pair (Blue).",
+        "image": "https://m.media-amazon.com/images/I/713JHXyZS9L._AC_SX679_.jpg",
+        "price": 14.99,
+        "stock": 42,
+        "category": "cats"
+    },
+    {
+        "id": 16,
+        "name": "Natural Treats for Cats (Chicken)",
+        "description": "Formula to help support healthy digestion, high quality protein to support muscles and less than 2 calories per treat to help maintain a healthy weight.",
+        "image": "https://m.media-amazon.com/images/I/91n3EIXak-L._AC_SX679_.jpg",
+        "price": 16.25,
+        "stock": 21,
+        "category": "cats"
+    },
+    {
+        "id": 17,
+        "name": "Gravity Auto Feeder for Cats",
+        "description": "The Small Size Auto Feeder holds 3 pounds of kibble and uses gravity to continuously dispense food to your pet.",
+        "image": "https://m.media-amazon.com/images/I/61cO3UaH6TL._AC_SX679_.jpg",
+        "price": 7.79,
+        "stock": 13,
+        "category": "cats"
+    },
+    {
+        "id": 18,
+        "name": "Cat Carriers",
+        "description": "With airline-approved design, you can take your pet to go to everywhere. This pet carrier provides two connecting loop handles for balanced carrying as a dual seat belt or luggage strap to secure transport.",
+        "image": "https://m.media-amazon.com/images/I/813v3252ylL._AC_SX679_.jpg",
+        "price": 23.99,
+        "stock": 11,
+        "category": "cats"
+    },
+    {
+        "id": 19,
+        "name": "Reflective Cat Collar with Bell",
+        "description": "Set of 6, Solid & Safe Collars for Cats, Nylon, Mixed Colors, Pet Collar, Breakaway Cat Collar, Free Replacement (6-Pack).",
+        "image": "https://m.media-amazon.com/images/I/71Xo4gbxqkL._AC_SX679_.jpg",
+        "price": 12.94,
+        "stock": 50,
+        "category": "cats"
+    },
+    {
+        "id": 20,
+        "name": "Cat Tunnels Tube Cat Toys",
+        "description": "Cat Tunnel Bed Pop-up Collapsible Pet Tube Interactive Play Toy with Ball, Cat Tunnels for Indoor Cats, Great Toy for Cats.",
+        "image": "https://m.media-amazon.com/images/I/715cbEVl8AL._AC_SX679_.jpg",
+        "price": 9.99,
+        "stock": 37,
+        "category": "cats"
+    },
+    {
+        "id": 21,
+        "name": "Aquarium Gravel Cleaner",
+        "description": "New Quick Water Changer with Air-Pressing Button Fish Tank Sand Cleaner Kit Aquarium Siphon Vacuum Cleaner with Water Hose Controller Clamp.",
+        "image": "https://m.media-amazon.com/images/I/61yQxOWs4OL._AC_SX679_.jpg",
+        "price": 23.99,
+        "stock": 3,
+        "category": "fishes"
+    },
+    {
+        "id": 22,
+        "name": "Aquarium Gravel",
+        "description": "Pink/Green/Blue Fluorescent, 5-Pound, Bag Pink/Green/Blue Fluorescent, 4 x 5 x 9 inches ; 5 pounds (29085).",
+        "image": "https://m.media-amazon.com/images/I/71ujgHCbdIL._AC_SX679_.jpg",
+        "price": 6.89,
+        "stock": 23,
+        "category": "fishes"
+    },
+    {
+        "id": 23,
+        "name": "Plastic Plants and Cave Rock Decorations",
+        "description": "The plastic aquarium plants are soft and no sharp edges, it won't hurt your fish. The fish tank plants will neither fade nor create pollution to the water, which will provide a comfortable and clean living environment for the fish.",
+        "image": "https://m.media-amazon.com/images/I/81HvUZSvsQL._AC_SX679_.jpg",
+        "price": 12.89,
+        "stock": 7,
+        "category": "fishes"
+    },
+    {
+        "id": 24,
+        "name": "Instant Ocean Sea Salt",
+        "description": "Contains every major minor and trace element delicate marine fish and invertebrates need.",
+        "image": "https://m.media-amazon.com/images/I/81K3I-LMf1L._AC_SX679_.jpg",
+        "price": 25.29,
+        "stock": 1,
+        "category": "fishes"
+    },
+    {
+        "id": 25,
+        "name": "Automatic Fish Feeder",
+        "description": "Vacation Timer Feeder for Fish Tank Electric Adjustable Auto Fish Food Dispenser 0.05 Gal & Two Fixed Methods.",
+        "image": "https://m.media-amazon.com/images/I/61Y+eS2KizS._AC_SX679_.jpg",
+        "price": 20.99,
+        "stock": 4,
+        "category": "fishes"
+    },
+    {
+        "id": 26,
+        "name": "Mini Aquarium Heater",
+        "description": "This heater is designed for1~10 gallons tank. Upgrade function: The heater will auto shut off when it is out of water and turn normal when fully in water again.",
+        "image": "https://m.media-amazon.com/images/I/61LbrwoXJpL._AC_SX679_.jpg",
+        "price": 18.99,
+        "stock": 12,
+        "category": "fishes"
+    },
+    {
+        "id": 27,
+        "name": "Wheel Assembly Filter Parts for Aquarium",
+        "description": "Ml Bio Wheel Assay 200b 350b (Aquaria), Parts-Power Filters category with model AMLPRBW2350B.",
+        "image": "https://m.media-amazon.com/images/I/817JSGy2UBL._AC_SX679_.jpg",
+        "price": 6.99,
+        "stock": 13,
+        "category": "fishes"
+    },
+    {
+        "id": 28,
+        "name": "Seachem Stability",
+        "description": "Seachem Stability will rapidly and safely establish the aquarium biofilter in freshwater and marine systems, thereby preventing the #1 cause of fish death: 'new tank syndrome'.",
+        "image": "https://m.media-amazon.com/images/I/71XpFvJdpLL._AC_SY879_.jpg",
+        "price": 9.39,
+        "stock": 14,
+        "category": "fishes"
+    },
+    {
+        "id": 29,
+        "name": "Nutritionally Balanced Fish Food",
+        "description": "Highly digestible ingredients for use as staple food for your top- and mid-feeding tropical fish.",
+        "image": "https://m.media-amazon.com/images/I/71aWiT9xMuS._AC_SX679_.jpg",
+        "price": 11.09,
+        "stock": 9,
+        "category": "fishes"
+    },
+    {
+        "id": 30,
+        "name": "Aqueon Aquarium Fish Tank",
+        "description": "Low profile full hood contains vibrant cool white LED lighting to bring your aquatic environment to life. Filter has a red LED light that flashes to indicate when it's time to change the cartridge.",
+        "image": "https://m.media-amazon.com/images/I/91JVQH2dlfL._AC_SX679_.jpg",
+        "price": 79.99,
+        "stock": 2,
+        "category": "fishes"
+    },
+    {
+        "id": 31,
+        "name": "Wild Bird Food",
+        "description": "Kaytee Black Oil Sunflower is the best single grain for attracting the widest variety of wild birds.",
+        "image": "https://m.media-amazon.com/images/I/91BBUT+twkL._AC_SX679_.jpg",
+        "price": 10.99,
+        "stock": 5,
+        "category": "birds"
+    },
+    {
+        "id": 32,
+        "name": "Natural Wood Bird Perch Parrot Stand Branches Fork Toys",
+        "description": "Material: Made of high quality natural wood without paint,safe for you per,durable and sturdy,can serve for a long time.",
+        "image": "https://m.media-amazon.com/images/I/71Q4zVTQd0L._AC_SX679_.jpg",
+        "price": 14.95,
+        "stock": 5,
+        "category": "birds"
+    },
+    {
+        "id": 33,
+        "name": "Rypet Bird Chewing Toy",
+        "description": "The bird parrot toy provides essential physical activity to keep your feather friends stable and happy, and improve your health. There are several multi-colored blocks in this single toy to entice your bird. These blocks are arranged in multiple layers to climb and explore.Birds also love to untie cotton rope knots, which satiates their natural urge to chew.",
+        "image": "https://m.media-amazon.com/images/I/714W0T8LBGL._AC_SX679_.jpg",
+        "price": 13.99,
+        "stock": 7,
+        "category": "birds"
+    },
+    {
+        "id": 34,
+        "name": "Winter Warm Bird Nest Bed",
+        "description": "Our bird nest is made of high-density canvas outside and warm fleece material inside, it's soft and comfortable. This bird hut provides a warm shelter for your lovely birds to rest, hide and play.",
+        "image": "https://m.media-amazon.com/images/I/717RFM4sltS._AC_SX679_.jpg",
+        "price": 12.49,
+        "stock": 1,
+        "category": "birds"
+    },
+    {
+        "id": 35,
+        "name": "Parrot Feeding Cups",
+        "description": "Hanging in the cages, It can be used for hold food or water,Prevents your bird from accidentally tipping food/water bowl.",
+        "image": "https://m.media-amazon.com/images/I/619NOVC1tEL._AC_SX679_.jpg",
+        "price": 9.99,
+        "stock": 25,
+        "category": "birds"
+    },
+    {
+        "id": 36,
+        "name": "Snuggle Warmer for Cage",
+        "description": "Protect exotic birds from the harmful effects of air conditioning and cold drafts.",
+        "image": "https://m.media-amazon.com/images/I/81DwvFGdb0L._AC_SX679_.jpg",
+        "price": 35.38,
+        "stock": 15,
+        "category": "birds"
+    },
+    {
+        "id": 37,
+        "name": "Bird Mirror with Rope Perch",
+        "description": "This Mirror made of acrylic and cotton rope, light and will nerver hurt the parrot. And it is safer and more durable than other stainless steel mirror. Notice: Please tear off the protective film on the mirror surface before installation.",
+        "image": "https://m.media-amazon.com/images/I/6101XrFrYgL._AC_SY879_.jpg",
+        "price": 12.99,
+        "stock": 13,
+        "category": "birds"
+    },
+    {
+        "id": 38,
+        "name": "Deloky Large Bird Parrot Chewing Toy",
+        "description": "This super big parrot toys has several distinctive shapes and wooden beads with vibrant colors which connected with the metal chain,and also multiple layers encourage parrot to climb and explore.",
+        "image": "https://m.media-amazon.com/images/I/71st0s9x+BL._AC_SX679_.jpg",
+        "price": 26.99,
+        "stock": 14,
+        "category": "birds"
+    },
+    {
+        "id": 39,
+        "name": "Wheel Seed Food",
+        "description": "Rotatable design, the front of the food box can be rotated to train the IQ and skills of birds.",
+        "image": "https://m.media-amazon.com/images/I/61dKD3QUS+L._AC_SX679_.jpg",
+        "price": 10.99,
+        "stock": 3,
+        "category": "birds"
+    },
+    {
+        "id": 40,
+        "name": "Winter Warm Bird Nest House",
+        "description": "The bird nest measures about 9.8 x 9.8 x 11in. It has a well-supported and stable design. Perfect for large birds to keep warm and wind out. Such as Macaw, Amazon, African grey cockatoos, Anodorhynchus hyacinthinus, Ara ararauna, Ara militaris, Ara ambiguus, Ara macao, Ara chloroptera, Ara rubrogenys, Primolius couloni, Diopsittaca nobilis.",
+        "image": "https://m.media-amazon.com/images/I/71u5jtib3-L._AC_SX679_.jpg",
+        "price": 24.99,
+        "stock": 5,
+        "category": "birds"
+    }
+]
+  
