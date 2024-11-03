@@ -1,0 +1,149 @@
+#about {
+  padding: 5rem 0rem;
+  background: var(--color-light);
+
+}
+
+.about__container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.about__me {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 2rem;
+  background: linear-gradient(
+    45deg,
+    transparent,
+    var(--color-secondary),
+    transparent);
+  display: grid;
+  place-items: center;
+}
+
+.about__me-image {
+  border-radius: 2rem;
+  overflow: hidden;
+  transform: rotate(10deg);
+  transition: var(--transition);
+}
+
+.about__me-image:hover {
+  transform: rotate(0);
+}
+
+.about__cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-right: 5rem;
+}
+
+.about__card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: left;
+}
+
+.about__icon {
+  color: var(--color-primary);
+  width: 100px;
+  height: 100px;
+  padding: 35px;
+}
+
+.about__card h3 {
+  font-weight: 700;
+}
+
+.about__card small {
+  font-size: 0.7rem;
+  color: var(--color-dark)
+}
+
+.about__header > h2 {
+  color: var(--color-primary);
+  margin-bottom: 1.5rem;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 60px;
+}
+
+.about__content {
+  font-size: 1.25rem;
+  line-height: 3rem;
+  align-self: center;
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
+
+.about__content p {
+  font-size: 1.25rem;
+}
+
+.about__content p:not(.bold) {
+  margin-bottom: 1rem;
+}
+
+.about__text {
+  width: max-content;
+}
+
+/* ========== MEDIA QUERIES (MEDIUM DEVICES) ========= */
+@media screen and (max-width: 1024px) {
+  .about__container {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .about__me {
+    width: 50%;
+    margin: 2rem auto 4rem;
+  }
+
+
+  .about__cards {
+    margin: 3rem 0 0 0;
+    order: 1;
+  }
+
+  .about__card {
+    justify-content: center;
+  }
+
+  .about__icon {
+    width: 80px;
+    height: 80px;
+    padding: 25px;
+  }
+
+  .about__content {
+    margin-top: 3rem;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: -1;
+  }
+
+  .btn__wrapper {
+    text-align: center;
+  }
+}
+
+/* ========== MEDIA QUERIES (SMALL DEVICES) ========= */
+@media screen and (max-width: 600px) {
+  .about__me {
+    width: 65%;
+    margin: 0 auto 3rem;
+  }
+
+  .about__cards {
+    margin-right: 0rem;
+  }
+
+  .about__card {
+    margin-bottom: 1rem;
+  }
+
+}
